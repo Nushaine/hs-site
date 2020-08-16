@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://www.example.com/recent_advancements_in_nlp/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/recent_advancements_in_nlp/</guid>
+      <description>NLP technology has advanced significantly in the past two years similar to how computer vision accelerated due to imagenet. We can expect some great products in this decade leveraging NLP. These advancements mean problems that had long and complex unstructured data can now be tackled. One area of interest for me is how can we build an actionable, interoperable, and useable data layer using clinical notes and improve provider operations and care delivery as a by product.</description>
+    </item>
+    
+    <item>
       <title>Blogs</title>
       <link>https://www.example.com/compilations/blogs/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
