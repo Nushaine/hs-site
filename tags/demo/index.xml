@@ -14,6 +14,15 @@
     
     <item>
       <title></title>
+      <link>https://www.example.com/d2c/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://www.example.com/d2c/</guid>
+      <description>NLP technology has advanced significantly in the past two years similar to how computer vision accelerated due to imagenet. We can expect some great products in this decade leveraging NLP. These advancements mean problems that had long and complex unstructured data can now be tackled. One area of interest for me is how can we build an actionable, interoperable, and useable data layer using clinical notes and improve provider operations and care delivery as a by product.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://www.example.com/recent_advancements_in_nlp/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
@@ -78,7 +87,7 @@ What&amp;rsquo;s recently been on my mind:
       
       <guid>https://www.example.com/writings/</guid>
       <description>Some of my essays and blog
- Data As A Service  Connect with me on Twitter.</description>
+ Crash course on Data Privacy Trends accelerating Data as A Service Data As A Service Overview and Industry Map  Connect with me on Twitter.</description>
     </item>
     
     <item>
